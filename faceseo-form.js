@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://miquangngondanang.blogspot.com/";
+	window.location="https://qno.vn";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
